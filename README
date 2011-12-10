@@ -1,0 +1,12 @@
+-*- Mode: Text -*-
+
+                     Common Lisp Namespace Server
+
+
+This project aims to replicate the namespace servers present on many
+Lisp Machines (e.g. Symbolics, LMI, TI et al).
+
+Rather than working on the basis of a `distribution', CL-NAMESPACE
+works on the basis of a `system.'
+
+This is still a work-in-progress.
